@@ -29,3 +29,11 @@ Learned: The top dot of the diode shows where its corresponding switch is
 
 Journal: Fixing my mess took way longer then expected, I had to re-arrange my switches in the correct order and then also the diodes right after which took up a big deal of time.
 
+6/8/26 - Part 3: 50 min
+
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/0a642319-20b8-4318-bf6d-b08b783949c2" />
+
+Learned: Routing PCB with front and back layer
+
+Journal: I routed out my whole pcb mostly on the front layer, I only routed a little of them on the back layer.
+
